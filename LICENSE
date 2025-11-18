@@ -1,0 +1,66 @@
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+(CC BY-NC-SA 4.0)
+
+This repository contains design, visual, and branding assets for the GuangFuHero project.
+Except for trademarked materials described below, all contents in this repository
+are licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+International License.
+
+You are free to:
+- Share — copy and redistribute the material in any medium or format.
+- Adapt — remix, transform, and build upon the material.
+
+Under the following terms:
+- Attribution — You must give appropriate credit.
+- NonCommercial — You may not use the material for commercial purposes.
+- ShareAlike — If you remix or build upon the material, you must distribute your
+  contributions under the same license as the original.
+
+Full license text:
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+----------------------------------------------------------------------
+TRADEMARK EXCEPTION (IMPORTANT)
+----------------------------------------------------------------------
+
+The “GuangFuHero” name, official logos, brand marks, and brand identity —
+including all files located in the `/logo` directory — are NOT licensed under
+the Creative Commons BY-NC-SA 4.0 license.
+
+These trademarked assets are protected and may not be used, reproduced,
+modified, distributed, or incorporated into derivative works without explicit
+written permission from the GuangFuHero project owners.
+
+This trademark exception overrides the Creative Commons license for all
+trademark-related assets.
+
+----------------------------------------------------------------------
+SITE NAME EXCEPTION (NOT LICENSED)
+----------------------------------------------------------------------
+
+The project name “GuangFuHero” (光復超人), including all related service names,
+project identifiers, and domain names such as “gf250923.org”, are NOT licensed
+under the Creative Commons BY-NC-SA 4.0 license.
+
+These names function as protected identifiers of the GuangFuHero project and
+may not be used for forks, derivative projects, commercial services, or
+public-facing deployments without explicit written permission from the
+GuangFuHero project owners.
+
+----------------------------------------------------------------------
+Repository Licensing Scope
+----------------------------------------------------------------------
+
+Licensed under CC BY-NC-SA 4.0:
+- /ui
+- /figma
+- /icons
+- /photos
+- /maps
+- /posters
+- /banners
+- /templates
+- any other non-code creative content
+
+NOT licensed (trademark protected):
+- /logo
