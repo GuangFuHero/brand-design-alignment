@@ -1,23 +1,26 @@
-Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
-(CC BY-NC-SA 4.0)
+Creative Commons Attribution-ShareAlike 4.0 International
+(CC BY-SA 4.0)
 
 This repository contains design, visual, and branding assets for the GuangFuHero project.
 Except for trademarked materials described below, all contents in this repository
-are licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0
-International License.
+are licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.
 
 You are free to:
-- Share — copy and redistribute the material in any medium or format.
-- Adapt — remix, transform, and build upon the material.
+- Share — copy and redistribute the material in any medium or format, for any purpose,
+  even commercially.
+- Adapt — remix, transform, and build upon the material for any purpose, even commercially.
 
 Under the following terms:
-- Attribution — You must give appropriate credit.
-- NonCommercial — You may not use the material for commercial purposes.
-- ShareAlike — If you remix or build upon the material, you must distribute your
+- Attribution — You must give appropriate credit (credit: 光復超人設計團隊 /
+  GuangFuHero design team), provide a link to the license, and indicate if changes were made.
+- ShareAlike — If you remix, transform, or build upon the material, you must distribute your
   contributions under the same license as the original.
 
+Creative Commons lists CC BY-SA 4.0 as one-way compatible with the GNU GPL v3, so these assets
+may be used inside GPL-3.0 software such as GuangFuHero/optimized-version.
+
 Full license text:
-https://creativecommons.org/licenses/by-nc-sa/4.0/
+https://creativecommons.org/licenses/by-sa/4.0/legalcode
 
 ----------------------------------------------------------------------
 TRADEMARK EXCEPTION (IMPORTANT)
@@ -25,7 +28,7 @@ TRADEMARK EXCEPTION (IMPORTANT)
 
 The “GuangFuHero” name, official logos, brand marks, and brand identity —
 including all files located in the `/logo` directory — are NOT licensed under
-the Creative Commons BY-NC-SA 4.0 license.
+the Creative Commons BY-SA 4.0 license.
 
 These trademarked assets are protected and may not be used, reproduced,
 modified, distributed, or incorporated into derivative works without explicit
@@ -40,7 +43,7 @@ SITE NAME EXCEPTION (NOT LICENSED)
 
 The project name “GuangFuHero” (光復超人), including all related service names,
 project identifiers, and domain names such as “gf250923.org”, are NOT licensed
-under the Creative Commons BY-NC-SA 4.0 license.
+under the Creative Commons BY-SA 4.0 license.
 
 These names function as protected identifiers of the GuangFuHero project and
 may not be used for forks, derivative projects, commercial services, or
@@ -51,7 +54,7 @@ GuangFuHero project owners.
 Repository Licensing Scope
 ----------------------------------------------------------------------
 
-Licensed under CC BY-NC-SA 4.0:
+Licensed under CC BY-SA 4.0:
 - /ui
 - /figma
 - /icons
